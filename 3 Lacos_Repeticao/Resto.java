@@ -1,4 +1,4 @@
-package dRepetição;
+package dRepetiÃ§Ã£o;
 
 public class Ex1 {
 	public static void main (String args[])
@@ -8,7 +8,7 @@ public class Ex1 {
 		{		
 		if(x%11==5)
 		{
-			System.out.println("O número " + x + " dividido por 11 tem o resto 5");
+			System.out.println("O nÃºmero " + x + " dividido por 11 tem o resto 5");
 		}
 		}
 	}
