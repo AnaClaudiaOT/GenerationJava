@@ -1,4 +1,4 @@
-package dRepetição;
+package dRepetiÃ§Ã£o;
 
 import java.util.Scanner;
 
@@ -9,13 +9,13 @@ public class Ex5 {
 		int num, somanum=0;
 		do
 		{
-			System.out.printf("Entre com um número: ");
+			System.out.printf("Entre com um nÃºmero: ");
 			num = leitura.nextInt();
 			somanum = somanum + num;
 		}
 		while(num!=0);
 		
-		System.out.printf("A soma dos números digitados foi de: %d ",somanum);
+		System.out.printf("A soma dos nÃºmeros digitados foi de: %d ",somanum);
 				
 	}
 
